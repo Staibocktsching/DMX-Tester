@@ -18,7 +18,6 @@ Inspired by the **Swisson XMT-120A** professional DMX tester.
 - 💾 **10 Scene Presets** - Save and load DMX configurations
 - ⚡ **Multiple Test Modes** - SET, +1/-1 tuning, ALL ON/OFF, CHASE animation
 - 🎨 **Customizable** - Easy parameter adjustments (IP, colors, layout)
-- ⚙️ **3D-Printable Enclosure** - Professional OpenSCAD case with XLR port
 
 ---
 
